@@ -82,5 +82,5 @@ Imported the dataset directly from PostgreSQL to Power BI to build an interactiv
 5. Open PGAdmin or your preferred SQL IDE to execute the analysis queries.
 6. Open the `.pbix` file in Power BI Desktop and update the data source settings to point to your local database.
 
-## Credits
-This project was inspired by and built following the comprehensive end-to-end data analytics tutorial by **Amlan Mohanty**.
+##Images
+<img src="Screenshot.png" alt="Dashboard" width="800">
