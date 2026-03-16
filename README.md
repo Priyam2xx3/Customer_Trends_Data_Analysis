@@ -60,19 +60,19 @@ Imported the dataset directly from PostgreSQL to Power BI to build an interactiv
 ## Key Insights & Recommendations
 * *Gender-based Revenue Distribution: *(e.g., Male customers generate 60% of total revenue, indicating a stronger market share in this demographic.)*
 
-Discount-Driven Spending: *(e.g., Surprisingly, customers who utilized a discount had a higher average purchase amount than the overall average, suggesting that promotions effectively encourage larger purchases.)*
+* *Discount-Driven Spending: *(e.g., Surprisingly, customers who utilized a discount had a higher average purchase amount than the overall average, suggesting that promotions effectively encourage larger purchases.)*
 
-High-Rated Product Categories: *(e.g., Gloves and Sandals are among the top-rated products by average review rating, presenting opportunities for premium pricing or featured marketing.)*
+* *High-Rated Product Categories: *(e.g., Gloves and Sandals are among the top-rated products by average review rating, presenting opportunities for premium pricing or featured marketing.)*
 
-Shipping Preference and Order Value: *(e.g., Express shipping is associated with a significantly higher average order value compared to Standard shipping, recommending a potential push for faster delivery options as an up-sell.)*
+* *Shipping Preference and Order Value: *(e.g., Express shipping is associated with a significantly higher average order value compared to Standard shipping, recommending a potential push for faster delivery options as an up-sell.)*
 
-Subscription Program Impact: *(e.g., Non-subscribed customers contribute a larger portion of total revenue despite having a similar average spend to subscribers, highlighting a critical area for improving the value proposition of the subscription model.)*
+* *Subscription Program Impact: *(e.g., Non-subscribed customers contribute a larger portion of total revenue despite having a similar average spend to subscribers, highlighting a critical area for improving the value proposition of the subscription model.)*
 
-Revenue Leaders by Product: *(e.g., Within the 'Clothing' category, 'Blouse' is the top-performing item by total revenue.)*
+* *Revenue Leaders by Product: *(e.g., Within the 'Clothing' category, 'Blouse' is the top-performing item by total revenue.)*
 
-Loyalty Conversion: *(e.g., Only a small fraction of repeat buyers are currently subscribed, indicating a missed opportunity for converting loyal customers into recurring revenue through subscriptions.)*
+* *Loyalty Conversion: *(e.g., Only a small fraction of repeat buyers are currently subscribed, indicating a missed opportunity for converting loyal customers into recurring revenue through subscriptions.)*
 
-Target Demographics: *(e.g., Young Adults are the primary revenue drivers, followed by Middle-Aged Adults, suggesting that marketing efforts should remain focused on these age groups.)*
+* *Target Demographics: *(e.g., Young Adults are the primary revenue drivers, followed by Middle-Aged Adults, suggesting that marketing efforts should remain focused on these age groups.)*
 
 ## How to Run This Project
 1. Clone this repository to your local machine.
